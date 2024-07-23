@@ -1,0 +1,28 @@
+{
+    "nextPaletteID": 2,
+    "palettes": {
+        "custom1": {
+            "id": "custom1",
+            "name": "Portal",
+            "colors": [
+                "#000000",
+                "#FFFFFF",
+                "#FF2121",
+                "#F39600",
+                "#FF8135",
+                "#FFF609",
+                "#249CA3",
+                "#CFCECE",
+                "#003FAD",
+                "#87F2FF",
+                "#DFDDDF",
+                "#999999",
+                "#474747",
+                "#79E619",
+                "#EE719E",
+                "#000000"
+            ],
+            "custom": true
+        }
+    }
+}
